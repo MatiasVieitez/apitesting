@@ -1,5 +1,6 @@
 Flask==2.0.3
 Werkzeug==2.0.3
 flask-jwt-extended==4.4.4
-flassger
-flask-swagger-ui
+flasgger==0.9.7.1
+flask-swagger-ui==4.11.1
+requests==2.31.0
